@@ -1,0 +1,4 @@
+   9.99999993E+36  +          Infinity  =          Infinity
+   9.99999993E+36  -          Infinity  =         -Infinity
+   9.99999993E+36  *          Infinity  =          Infinity
+   9.99999993E+36  /          Infinity  =    0.00000000    
